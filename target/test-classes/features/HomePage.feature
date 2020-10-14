@@ -1,5 +1,5 @@
 
-@wi
+@wip
 Feature: adesso Homepage
 
   Background:
