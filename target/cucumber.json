@@ -1,0 +1,376 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2020-10-14T11:18:07.528Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1670110000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adesso.stepdefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Verify subTabs of Automobil",
+        "description": "",
+        "id": "automobile;verify-subtabs-of-automobil",
+        "after": [
+          {
+            "result": {
+              "duration": 138836000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adesso.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2557802000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user access adesso homepage",
+            "match": {
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_user_access_adesso_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7121724000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user clicks \"Automobil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Automobil\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_user_clicks(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2101043000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the user can see the following under \"Automobil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Automobil\"",
+                  "offset": 37
+                }
+              ],
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_user_can_see_the_following_under(java.lang.String,java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "CAR TO X"
+                ]
+              },
+              {
+                "cells": [
+                  "PORTALE"
+                ]
+              },
+              {
+                "cells": [
+                  "TELEMATIKPLATTFORMEN"
+                ]
+              },
+              {
+                "cells": [
+                  "AGILE SOFTWARE­ENT­WICKLUNG"
+                ]
+              },
+              {
+                "cells": [
+                  "AGILER FESTPREIS"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "Automobile",
+    "description": "",
+    "id": "automobile",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Automobil.feature",
+    "tags": [
+      {
+        "name": "@wip",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4694425000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user access adesso homepage",
+            "match": {
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_user_access_adesso_homepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-14T11:18:21.176Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1421067000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adesso.stepdefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Verify Page Title",
+        "description": "",
+        "id": "adesso-homepage;verify-page-title",
+        "after": [
+          {
+            "result": {
+              "duration": 95476000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adesso.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 57692000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "the page title is \"adesso SE - Führender IT-Dienstleister im deutschsprachigen Raum\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"adesso SE - Führender IT-Dienstleister im deutschsprachigen Raum\"",
+                  "offset": 18
+                }
+              ],
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_page_title_is(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 79812000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the logo is displayed",
+            "match": {
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_logo_is_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3042721000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user access adesso homepage",
+            "match": {
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_user_access_adesso_homepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-14T11:18:27.539Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1161952000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adesso.stepdefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Verify subTabs of adessoEntdecken",
+        "description": "",
+        "id": "adesso-homepage;verify-subtabs-of-adessoentdecken",
+        "after": [
+          {
+            "result": {
+              "duration": 93784000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.adesso.stepdefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 80569000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "the user clicks \"entdecken\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"entdecken\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_user_clicks(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1117862000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "the user can see the following under \"entdecken\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"entdecken\"",
+                  "offset": 37
+                }
+              ],
+              "location": "com.adesso.stepdefinitions.HomePageStepdefinitions.the_user_can_see_the_following_under(java.lang.String,java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Branchen"
+                ]
+              },
+              {
+                "cells": [
+                  "Technologie-Plattformen"
+                ]
+              },
+              {
+                "cells": [
+                  "Impulse"
+                ]
+              },
+              {
+                "cells": [
+                  "Unternehmen"
+                ]
+              },
+              {
+                "cells": [
+                  "Jobs \u0026 Karriere"
+                ]
+              },
+              {
+                "cells": [
+                  "News"
+                ]
+              },
+              {
+                "cells": [
+                  "Kontakt"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "adesso Homepage",
+    "description": "",
+    "id": "adesso-homepage",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/HomePage.feature",
+    "tags": [
+      {
+        "name": "@wip",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 
+@wip
 Feature: Automobile
 
-  @wip
   Scenario: Verify subTabs of Automobil
     Given the user access adesso homepage
     When the user clicks "Automobil"

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9f74a396-415b-4793-9ddd-65ddcbf515e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/adesso/stepdefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/adesso/stepdefinitions/Hooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/Automobil.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Automobil.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/HomePage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HomePage.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/adessoautomation-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/adessoautomation-1.0-SNAPSHOT.jar" afterDir="false" />
@@ -21,6 +23,12 @@
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.adesso.runners.CukesRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.adesso.runners.CukesRunner.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire4181175871262287309tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_017935156245249525518tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter14301319493466412364.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/adesso/stepdefinitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/adesso/stepdefinitions/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Automobil.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Automobil.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/HomePage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/HomePage.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,29 +102,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="148" key="GridCell.Tab.0.bottom" timestamp="1602662554756">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1272" height="161" key="GridCell.Tab.0.bottom" timestamp="1602674283566">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1602662554756" />
-    <state width="1398" height="148" key="GridCell.Tab.0.center" timestamp="1602662554756">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="162" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1602670176103" />
+    <state width="1272" height="161" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1602674283566" />
+    <state width="1398" height="162" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1602673949667" />
+    <state width="1272" height="161" key="GridCell.Tab.0.center" timestamp="1602674283565">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1602662554756" />
-    <state width="1398" height="148" key="GridCell.Tab.0.left" timestamp="1602662554755">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="162" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1602670176102" />
+    <state width="1272" height="161" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1602674283565" />
+    <state width="1398" height="162" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1602673949666" />
+    <state width="1272" height="161" key="GridCell.Tab.0.left" timestamp="1602674283564">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1602662554755" />
-    <state width="1398" height="148" key="GridCell.Tab.0.right" timestamp="1602662554756">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="162" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1602670176102" />
+    <state width="1272" height="161" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1602674283564" />
+    <state width="1398" height="162" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1602673949665" />
+    <state width="1272" height="161" key="GridCell.Tab.0.right" timestamp="1602674283565">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
-    <state width="1398" height="148" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1602662554756" />
+    <state width="1398" height="162" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1602670176102" />
+    <state width="1272" height="161" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1602674283565" />
+    <state width="1398" height="162" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1602673949666" />
     <state x="221" y="75" key="SettingsEditor" timestamp="1602639455645">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="221" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1602639455645" />
-    <state x="478" y="186" width="697" height="563" key="find.popup" timestamp="1602662344193">
+    <state x="429" y="133" width="782" height="563" key="find.popup" timestamp="1602663791827">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="478" y="186" width="697" height="563" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1602662344193" />
+    <state x="429" y="133" width="782" height="563" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1602663791827" />
   </component>
 </project>
