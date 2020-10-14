@@ -69,7 +69,7 @@ formatter.feature({
   "keyword": "Feature",
   "tags": [
     {
-      "name": "@wi"
+      "name": "@wip"
     }
   ]
 });
@@ -97,7 +97,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@wi"
+      "name": "@wip"
     }
   ]
 });
@@ -148,7 +148,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@wi"
+      "name": "@wip"
     }
   ]
 });

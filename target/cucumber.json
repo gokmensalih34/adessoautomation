@@ -3,11 +3,11 @@
     "line": 3,
     "elements": [
       {
-        "start_timestamp": "2020-10-14T00:47:17.167Z",
+        "start_timestamp": "2020-10-14T01:20:33.389Z",
         "before": [
           {
             "result": {
-              "duration": 1736524000,
+              "duration": 1604345000,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 134158000,
+              "duration": 136254000,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3522991000,
+              "duration": 3210949000,
               "status": "passed"
             },
             "line": 6,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 5465547000,
+              "duration": 5412831000,
               "status": "passed"
             },
             "line": 7,
@@ -65,7 +65,7 @@
           },
           {
             "result": {
-              "duration": 2099590000,
+              "duration": 2100993000,
               "status": "passed"
             },
             "line": 8,
@@ -144,7 +144,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3767249000,
+              "duration": 2395358000,
               "status": "passed"
             },
             "line": 6,
@@ -157,11 +157,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-14T00:47:30.184Z",
+        "start_timestamp": "2020-10-14T01:20:45.906Z",
         "before": [
           {
             "result": {
-              "duration": 1091515000,
+              "duration": 1031805000,
               "status": "passed"
             },
             "match": {
@@ -176,7 +176,7 @@
         "after": [
           {
             "result": {
-              "duration": 91874000,
+              "duration": 95580000,
               "status": "passed"
             },
             "match": {
@@ -189,7 +189,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6798000,
+              "duration": 10349000,
               "status": "passed"
             },
             "line": 10,
@@ -207,7 +207,7 @@
           },
           {
             "result": {
-              "duration": 75052000,
+              "duration": 72618000,
               "status": "passed"
             },
             "line": 11,
@@ -220,7 +220,7 @@
         ],
         "tags": [
           {
-            "name": "@wi"
+            "name": "@wip"
           }
         ]
       },
@@ -233,7 +233,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4096598000,
+              "duration": 2072336000,
               "status": "passed"
             },
             "line": 6,
@@ -246,11 +246,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-14T00:47:35.230Z",
+        "start_timestamp": "2020-10-14T01:20:49.526Z",
         "before": [
           {
             "result": {
-              "duration": 922456000,
+              "duration": 825109000,
               "status": "passed"
             },
             "match": {
@@ -265,7 +265,7 @@
         "after": [
           {
             "result": {
-              "duration": 103678000,
+              "duration": 99738000,
               "status": "passed"
             },
             "match": {
@@ -278,7 +278,7 @@
         "steps": [
           {
             "result": {
-              "duration": 79129000,
+              "duration": 156608000,
               "status": "passed"
             },
             "line": 14,
@@ -296,7 +296,7 @@
           },
           {
             "result": {
-              "duration": 1122775000,
+              "duration": 1142397000,
               "status": "passed"
             },
             "line": 15,
@@ -352,7 +352,7 @@
         ],
         "tags": [
           {
-            "name": "@wi"
+            "name": "@wip"
           }
         ]
       }
@@ -364,7 +364,7 @@
     "uri": "file:src/test/resources/features/HomePage.feature",
     "tags": [
       {
-        "name": "@wi",
+        "name": "@wip",
         "type": "Tag",
         "location": {
           "line": 2,
