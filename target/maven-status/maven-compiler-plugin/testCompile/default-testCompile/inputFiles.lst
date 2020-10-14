@@ -1,0 +1,9 @@
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/pages/BasePage.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/stepdefinitions/HomePageStepdefinitions.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/utilities/ConfigurationReader.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/stepdefinitions/Hooks.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/pages/HomePage.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/pages/Automobil.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/runners/CukesRunner.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/utilities/Driver.java
+/Users/sgok/IdeaProjects/adessoautomation/src/test/java/com/adesso/utilities/BrowserUtils.java
